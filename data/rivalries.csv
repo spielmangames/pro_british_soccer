@@ -1,0 +1,299 @@
+home,against,name,status
+Albion Stripes,Bordesley City,null,minor
+Albion Stripes,Potteries,null,minor
+Albion Stripes,Reans,the Black Country derby,strong
+Albion Stripes,Witton Village,the West Midlands derby,strong
+Alery North,Cross North,the North Belfast derby,strong
+Alery North,Glens East,null,minor
+Alery North,Sandrow South,null,minor
+Bermondsey,Greenwich,the South East London derby,strong
+Bermondsey,Hammers,null,strong
+Bermondsey,Pompy,null,minor
+Bermondsey,Revie Blank,null,minor
+Bermondsey,South Norwood,the South London derby,strong
+Bloomer Rams,East Midlands Foxs,the East Midlands derby,strong
+Bloomer Rams,Revie Blank,null,minor
+Bloomer Rams,Trent Notts,the East Midlands derby,strong
+Bordesley City,Albion Stripes,null,minor
+Bordesley City,Reans,null,minor
+Bordesley City,Ricoh,null,minor
+Bordesley City,Witton Village,the Second City derby,strong
+Broomfield,Lanarkshire Dosser,the North South Lanarkshire derby,strong
+Broomfield,The Accies,the North South Lanarkshire derby,minor
+Broomfield,Wee,the Monklands derby,minor
+Bulloch,Glens East,null,strong
+Bulloch,Province,null,strong
+Bulloch,Sandrow South,null,minor
+Caberfeidh,Highland Caledonia,the Highland derby,strong
+Clegg United,Hammers,null,strong
+Clegg United,Jock Tigers,null,minor
+Clegg United,Lakeside Rovers,null,minor
+Clegg United,Olive Owl,the Steel City derby,strong
+Clegg United,Revie Blank,null,minor
+Clegg United,Trent Notts,null,strong
+Clegg United,Tykes,null,minor
+Cross North,Alery North,the North Belfast derby,strong
+Cross North,Glens East,null,minor
+Cross North,Sandrow South,null,minor
+Dale,Gigg,the M66 derby,strong
+Dale,Lancashire Claret,null,minor
+Dale,Pineville,null,minor
+Dale,Revie Blank,the Roses rivalry,minor
+Dale,Speirs,the Roses rivalry,minor
+Dale,Terriers,the Roses rivalry,minor
+East Midlands Foxs,Bloomer Rams,the East Midlands derby,strong
+East Midlands Foxs,Ricoh,the M69 derby,strong
+East Midlands Foxs,Trent Notts,the East Midlands derby,strong
+Gigg,Dale,the M66 derby,strong
+Gigg,Lancashire Athletic,null,minor
+Gigg,Lancashire Claret,null,minor
+Gigg,Lancashire Pomfret,null,minor
+Gigg,Middlebrook Church,null,strong
+Gigg,Pineville,null,strong
+Glens East,Alery North,null,minor
+Glens East,Bulloch,null,strong
+Glens East,Cross North,null,minor
+Glens East,Sandrow South,the Big Two derby,strong
+Glovers,Pitt,null,strong
+Glovers,Robins,null,minor
+Greenwich,Bermondsey,the South East London derby,strong
+Greenwich,South Norwood,the South London derby,minor
+Groverand United,White City,null,minor
+Hammers,Bermondsey,null,strong
+Hammers,Clegg United,null,strong
+Hammers,Highbury,null,minor
+Hammers,Spurs,null,strong
+Hammers,Stam,null,strong
+Hammers,Waltham Forest,null,minor
+Headington United,Pitt,null,strong
+Headington United,Sydenham Elm,null,minor
+Highbury,Hammers,null,minor
+Highbury,South West Cottage,null,minor
+Highbury,Spurs,the North London derby,strong
+Highbury,Stam,null,strong
+Highbury,Trad Bricks,null,strong
+Highland Caledonia,Caberfeidh,the Highland derby,strong
+Inchicore,Ringsend Stripes,null,strong
+Jock Tigers,Clegg United,null,minor
+Jock Tigers,Revie Blank,null,strong
+Knight Albion,South Norwood,the M23 derby,strong
+Knight Albion,Waltham Forest,null,minor
+Lakeside Rovers,Clegg United,null,minor
+Lakeside Rovers,Olive Owl,null,minor
+Lakeside Rovers,Revie Blank,null,minor
+Lakeside Rovers,Tykes,null,strong
+Lanarkshire Dosser,Broomfield,the North South Lanarkshire derby,strong
+Lanarkshire Dosser,The Accies,the South Lanarkshire derby,strong
+Lanarkshire Dosser,Wee,the Lanarkshire derby,minor
+Lancashire Athletic,Gigg,null,minor
+Lancashire Athletic,Lancashire Claret,null,minor
+Lancashire Athletic,Lancashire Labore,null,minor
+Lancashire Athletic,Lancashire Matthews,null,minor
+Lancashire Athletic,Lancashire Pomfret,null,minor
+Lancashire Athletic,Middlebrook Church,null,minor
+Lancashire Athletic,Pineville,null,minor
+Lancashire Claret,Dale,null,minor
+Lancashire Claret,Gigg,null,minor
+Lancashire Claret,Lancashire Athletic,null,minor
+Lancashire Claret,Lancashire Labore,the East Lancashire Derby,strong
+Lancashire Claret,Lancashire Matthews,null,minor
+Lancashire Claret,Lancashire Pomfret,null,minor
+Lancashire Claret,Middlebrook Church,null,minor
+Lancashire Claret,Playgoers,null,minor
+Lancashire Claret,Revie Blank,the Roses rivalry,minor
+Lancashire Claret,Speirs,the Roses rivalry,minor
+Lancashire Claret,Terriers,the Roses rivalry,minor
+Lancashire Labore,Lancashire Athletic,null,minor
+Lancashire Labore,Lancashire Claret,the East Lancashire Derby,strong
+Lancashire Labore,Lancashire Matthews,null,minor
+Lancashire Labore,Lancashire Pomfret,null,minor
+Lancashire Labore,Middlebrook Church,null,minor
+Lancashire Labore,Pineville,null,minor
+Lancashire Labore,Trad Bricks,null,minor
+Lancashire Matthews,Lancashire Athletic,null,minor
+Lancashire Matthews,Lancashire Claret,null,minor
+Lancashire Matthews,Lancashire Labore,null,minor
+Lancashire Matthews,Lancashire Pomfret,the West Lancashire derby,strong
+Lancashire Matthews,Middlebrook Church,null,minor
+Lancashire Matthews,Pineville,null,minor
+Lancashire Pomfret,Gigg,null,minor
+Lancashire Pomfret,Lancashire Athletic,null,minor
+Lancashire Pomfret,Lancashire Claret,null,minor
+Lancashire Pomfret,Lancashire Labore,null,minor
+Lancashire Pomfret,Lancashire Matthews,the West Lancashire derby,strong
+Landore,Leckwith,the South Wales derby,strong
+Landore,Robins,null,minor
+Leckwith,Landore,the South Wales derby,strong
+Leckwith,Reans,null,minor
+Leckwith,Revie Blank,null,minor
+Leckwith,Robins,the Severnside derby,strong
+Leckwith,White City,null,minor
+Leith Road,Tynecastle,the Edinburgh derby,strong
+Lloyd,Middlebrook Church,null,minor
+Lloyd,Pineville,null,minor
+Lloyd,Revie Blank,the Roses rivalry,minor
+Lloyd,Speirs,the Roses rivalry,minor
+Lloyd,Terriers,the Roses rivalry,minor
+Lloyd,Trad Bricks,the Manchester derby,strong
+Merseyside Blue,Merseyside Red,the Merseyside derby,strong
+Merseyside Red,Merseyside Blue,the Merseyside derby,strong
+Merseyside Red,Trad Bricks,the North West derby,strong
+Middlebrook Church,Gigg,null,strong
+Middlebrook Church,Lancashire Athletic,null,minor
+Middlebrook Church,Lancashire Claret,null,minor
+Middlebrook Church,Lancashire Labore,null,minor
+Middlebrook Church,Lancashire Matthews,null,minor
+Middlebrook Church,Lloyd,null,minor
+Middlebrook Church,Pineville,null,minor
+Middlebrook Church,Reans,null,minor
+Norvik City,Suffolk Town,the Old Farm derby,strong
+Old Firm Blue,Old Firm Green,the Old Firm derby,strong
+Old Firm Blue,The Dons,null,strong
+Old Firm Green,Old Firm Blue,the Old Firm derby,strong
+Olive Owl,Clegg United,the Steel City derby,strong
+Olive Owl,Lakeside Rovers,null,minor
+Olive Owl,Revie Blank,null,minor
+Olive Owl,Tykes,null,minor
+Perthshire Tulloch,Tannadice United,the Tayside derby,strong
+Perthshire Tulloch,The Dee,the Tayside derby,strong
+Pineville,Dale,null,minor
+Pineville,Gigg,null,strong
+Pineville,Lancashire Athletic,null,minor
+Pineville,Lancashire Labore,null,minor
+Pineville,Lancashire Matthews,null,minor
+Pineville,Lloyd,null,minor
+Pineville,Middlebrook Church,null,minor
+Pineville,Revie Blank,the Roses rivalry,minor
+Pineville,Speirs,the Roses rivalry,minor
+Pineville,Terriers,the Roses rivalry,minor
+Pineville,Trad Bricks,null,minor
+Pitt,Glovers,null,strong
+Pitt,Headington United,null,strong
+Pitt,Robins,null,minor
+Pitt,Sydenham Elm,the M4 derby,strong
+Playgoers,Lancashire Claret,null,minor
+Playgoers,Pompy,the Dockyard derby,strong
+Playgoers,Robins,the West Country derby,minor
+Pompy,Bermondsey,null,minor
+Pompy,Playgoers,the Dockyard derby,strong
+Pompy,Soton,the South Coast derby,strong
+Potteries,Albion Stripes,null,minor
+Potteries,Reans,the Staffordshire derby,strong
+Province,Bulloch,null,strong
+Reans,Albion Stripes,the Black Country derby,strong
+Reans,Bordesley City,null,minor
+Reans,Leckwith,null,minor
+Reans,Middlebrook Church,null,minor
+Reans,Potteries,the Staffordshire derby,strong
+Reans,Witton Village,null,minor
+Revie Blank,Bermondsey,null,minor
+Revie Blank,Bloomer Rams,null,minor
+Revie Blank,Clegg United,null,minor
+Revie Blank,Dale,the Roses rivalry,minor
+Revie Blank,Jock Tigers,null,strong
+Revie Blank,Lakeside Rovers,null,minor
+Revie Blank,Lancashire Claret,the Roses rivalry,minor
+Revie Blank,Leckwith,null,minor
+Revie Blank,Lloyd,the Roses rivalry,minor
+Revie Blank,Olive Owl,null,minor
+Revie Blank,Pineville,the Roses rivalry,minor
+Revie Blank,Speirs,the West Yorkshire derby,strong
+Revie Blank,Stam,null,strong
+Revie Blank,Teesside,null,minor
+Revie Blank,Terriers,the West Yorkshire derby,strong
+Revie Blank,Trad Bricks,the Roses rivalry,strong
+Ricoh,Bordesley City,null,minor
+Ricoh,East Midlands Foxs,the M69 derby,strong
+Ricoh,Witton Village,null,minor
+Ringsend Stripes,Inchicore,null,strong
+Robins,Glovers,null,minor
+Robins,Landore,null,minor
+Robins,Leckwith,the Severnside derby,strong
+Robins,Pitt,null,minor
+Robins,Playgoers,the West Country derby,minor
+Robins,Sydenham Elm,the M4 derby,strong
+Sandrow South,Alery North,null,minor
+Sandrow South,Bulloch,null,minor
+Sandrow South,Cross North,null,minor
+Sandrow South,Glens East,the Big Two derby,strong
+Soton,Pompy,the South Coast derby,strong
+South Norwood,Bermondsey,the South London derby,strong
+South Norwood,Greenwich,the South London derby,minor
+South Norwood,Knight Albion,the M23 derby,strong
+South West Cottage,Highbury,null,minor
+South West Cottage,Stam,the West London derby,strong
+South West Cottage,White City,the West London derby,strong
+Speirs,Dale,the Roses rivalry,minor
+Speirs,Lancashire Claret,the Roses rivalry,minor
+Speirs,Lloyd,the Roses rivalry,minor
+Speirs,Pineville,the Roses rivalry,minor
+Speirs,Revie Blank,the West Yorkshire derby,strong
+Speirs,Terriers,the West Yorkshire derby,strong
+Speirs,Trad Bricks,the Roses rivalry,minor
+Spurs,Hammers,null,strong
+Spurs,Highbury,the North London derby,strong
+Spurs,Stam,null,strong
+Stam,Hammers,null,strong
+Stam,Highbury,null,strong
+Stam,Revie Blank,null,strong
+Stam,South West Cottage,the West London derby,strong
+Stam,Spurs,null,strong
+Stam,White City,the West London derby,strong
+Suffolk Town,Norvik City,the Old Farm derby,strong
+Sydenham Elm,Headington United,null,minor
+Sydenham Elm,Pitt,the M4 derby,strong
+Sydenham Elm,Robins,the M4 derby,strong
+Tannadice United,Perthshire Tulloch,the Tayside derby,strong
+Tannadice United,The Dee,the Dundee derby,strong
+Tannadice United,The Dons,the New Firm derby,strong
+Teesside,Revie Blank,null,minor
+Teesside,Tyneside,the Tyne–Tees derby,strong
+Teesside,Wearside,the Tees–Wear derby,strong
+Terriers,Dale,the Roses rivalry,minor
+Terriers,Lancashire Claret,the Roses rivalry,minor
+Terriers,Lloyd,the Roses rivalry,minor
+Terriers,Pineville,the Roses rivalry,minor
+Terriers,Revie Blank,the West Yorkshire derby,strong
+Terriers,Speirs,the West Yorkshire derby,strong
+Terriers,Trad Bricks,the Roses rivalry,minor
+Terriers,Tykes,null,minor
+The Accies,Broomfield,the North South Lanarkshire derby,minor
+The Accies,Lanarkshire Dosser,the South Lanarkshire derby,strong
+The Accies,Wee,the Lanarkshire derby,minor
+The Dee,Perthshire Tulloch,the Tayside derby,strong
+The Dee,Tannadice United,the Dundee derby,strong
+The Dons,Old Firm Blue,null,strong
+The Dons,Tannadice United,the New Firm derby,strong
+Trad Bricks,Highbury,null,strong
+Trad Bricks,Lancashire Labore,null,minor
+Trad Bricks,Lloyd,the Manchester derby,strong
+Trad Bricks,Merseyside Red,the North West derby,strong
+Trad Bricks,Pineville,null,minor
+Trad Bricks,Revie Blank,the Roses rivalry,strong
+Trad Bricks,Speirs,the Roses rivalry,minor
+Trad Bricks,Terriers,the Roses rivalry,minor
+Trent Notts,Bloomer Rams,the East Midlands derby,strong
+Trent Notts,Clegg United,null,strong
+Trent Notts,East Midlands Foxs,the East Midlands derby,strong
+Tykes,Clegg United,null,minor
+Tykes,Lakeside Rovers,null,strong
+Tykes,Olive Owl,null,minor
+Tykes,Terriers,null,minor
+Tynecastle,Leith Road,the Edinburgh derby,strong
+Tyneside,Teesside,the Tyne–Tees derby,strong
+Tyneside,Wearside,the Tyne-Wear derby,strong
+Waltham Forest,Hammers,null,minor
+Waltham Forest,Knight Albion,null,minor
+Wearside,Teesside,the Tees–Wear derby,strong
+Wearside,Tyneside,the Tyne-Wear derby,strong
+Wee,Broomfield,the Monklands derby,minor
+Wee,Lanarkshire Dosser,the Lanarkshire derby,minor
+Wee,The Accies,the Lanarkshire derby,minor
+White City,Groverand United,null,minor
+White City,Leckwith,null,minor
+White City,South West Cottage,the West London derby,strong
+White City,Stam,the West London derby,strong
+Witton Village,Albion Stripes,the West Midlands derby,strong
+Witton Village,Bordesley City,the Second City derby,strong
+Witton Village,Reans,null,minor
+Witton Village,Ricoh,null,minor

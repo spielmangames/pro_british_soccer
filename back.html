@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Pro British Soccer</title>
+    <link rel="stylesheet" href="code/card.css">
+</head>
+<body>
+<script type="text/x-handlebars">
+    {{outlet}}
+
+</script>
+<script type="text/x-handlebars" id="index">
+    {{#each club in model}}
+            <div class="wrap">
+        <div class="card">
+                <div>
+                    <img class="img" bind-attr src="/pro_british_soccer/data/background.png"/>
+                    <img class="img flag"{{bind-attr src=club.flag}}"/>
+                </div>
+                <div class="paragraph text">
+                    {{club.name}} is {{club.nationality}} football club based in {{club.city}}, {{club.county}}.
+                </div>
+                <div class="paragraph text">
+                    The club was founded in {{club.founded}}.
+                </div>
+                {{#if club.strong_rivalries}}
+                    <div class="paragraph text">
+                        {{club.strong_rivalries}}.
+                    </div>
+                {{/if}}
+                {{#if club.minor_rivalries}}
+                    <div class="paragraph text">
+                        {{club.minor_rivalries}}.
+                    </div>
+                {{/if}}
+            </div>
+        </div>
+    {{/each}}
+
+</script>
+<script src="code/lib/js/libs/jquery-1.10.2.js"></script>
+<script src="code/lib/js/libs/handlebars-v2.0.0.js"></script>
+<script src="code/lib/js/libs/ember-1.9.1.js"></script>
+<script src="code/lib/js/app.js"></script>
+</body>
+</html>

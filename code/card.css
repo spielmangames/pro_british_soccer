@@ -1,0 +1,49 @@
+.card {
+    float: left;
+    width: 200px;
+    height: 276px;
+    border: 1px dashed silver;
+    padding: 20px 10px 20px 10px;
+    font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.wrap {
+    min-width: 306px;
+    max-width: 306px;
+    min-height: 382px;
+    max-height: 382px;
+    border: 1px dashed silver;
+    vertical-align: middle;
+}
+
+.img {
+    position: absolute;
+    opacity: 0.15;
+    vertical-align: middle;
+}
+
+.title {
+    align-content: center;
+    margin-top: 205px;
+    text-align: center;
+}
+
+.flag {
+    padding-top: 40px;
+    margin: 0 10px 0 10px;
+    max-width: 175px;
+    max-height: 269px;
+}
+
+.paragraph {
+    padding-top: 2px;
+    padding-bottom: 8px;
+}
+
+.text {
+    text-justify: inter-word;
+    font-weight: 100;
+    font-size: 11px;
+}
